@@ -1,1 +1,2 @@
 // test AI cost tracking
+// JIR-8 test line for AI detection Sun Aug 23 11:14:46 CEST 2026
