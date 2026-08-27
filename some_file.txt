@@ -2,3 +2,4 @@ test change for JIR-19
 test change for JIR-14
 test change for JIR-12
 test change for JIR-20
+test change for wt-23
