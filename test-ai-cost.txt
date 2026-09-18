@@ -1,3 +1,4 @@
 // test AI cost tracking
 // JIR-9 test line for AI detection Sun Aug 23 11:31:26 CEST 2026
 // JIR-28 test line for AI cost Thu Sep 17 17:45:29 CEST 2026
+// JIR-29 zero-cost test Fri Sep 18 13:49:09 CEST 2026
